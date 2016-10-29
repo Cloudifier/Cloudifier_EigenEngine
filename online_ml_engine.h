@@ -1,3 +1,11 @@
+//
+// EigenEngine - ML engine based on Eigen library
+//
+//
+//
+//
+//
+
 #pragma once
 
 #include "stdafx.h"
