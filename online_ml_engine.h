@@ -1,10 +1,11 @@
 //
 // EigenEngine - ML engine based on Eigen library
 //
+// Created: 11/01/2016
+// Last modified: 12/29/2016
 //
-//
-//
-//
+// @Author: Andrei Ionut DAMIAN
+// @Contributor: Octavian BULIE
 
 #pragma once
 
